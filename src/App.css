@@ -36,3 +36,22 @@
     transform: rotate(360deg);
   }
 }
+
+.card {
+  border: 2px solid red;
+  border-radius: 5px;
+  width: 50%;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+.data-field {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+  line-height: 30px;
+}
+
+.tag {
+  font-weight: bold;
+}
